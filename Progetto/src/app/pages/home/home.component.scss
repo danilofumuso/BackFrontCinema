@@ -1,0 +1,35 @@
+.container-fluid {
+  background-image: url(https://wallpapers.com/images/hd/streaming-kbftwbe97hr65i8f.jpg);
+}
+
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  }
+
+  .card-img-top {
+    height: 300px;
+    object-fit: cover;
+  }
+
+  .card-title {
+    font-size: 1rem;
+    margin-bottom: 0;
+    max-width: 80%;
+  }
+}
+
+.list-group-item {
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background-color: #f8f9fa;
+  }
+
+  small {
+    opacity: 0.7;
+  }
+}

@@ -1,0 +1,9 @@
+.hover-pill {
+  display: inline-block; /* Importante per l'effetto transform */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hover-pill:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}

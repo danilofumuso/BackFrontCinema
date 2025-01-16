@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "email": "rik@san.it",
+      "password": "$2a$10$Tnyw9NlHJPf2fZhZnNCas.oRRO50bDJZ3jJbylnyFu7.n68ckLgZ.",
+      "name": "Riccardo",
+      "id": 1
+    },
+    {
+      "email": "francis@drake.com",
+      "password": "$2a$10$Rl2G45RkKJWrvvgfAqvhNe21sa41Cr38Xf5hY3nPpE5LNj5rZZnfu",
+      "name": "Francis Drake",
+      "id": 2
+    },
+    {
+      "email": "due@due.due",
+      "password": "$2a$10$9fwpAGowQ2RTMPK14aZDouA4OHhElXp.li8BY1SwrxRWypKJbkvgi",
+      "name": "due",
+      "id": 3
+    },
+    {
+      "email": "rik@santi.it",
+      "password": "$2a$10$uLknfXCfvJ78U1MRxxB7c.saWchZuSGdX9oahfFWImYT4KTWmmJQ6",
+      "name": "riccardo",
+      "id": 4
+    }
+  ],
+  "movies-popular": [
+    {
+      "id": 1,
+      "title": "Django",
+      "poster": "https://m.media-amazon.com/images/I/811V32gosPL._UX250_.jpg",
+      "year": 2012,
+      "director": "Quentin Tarantino",
+      "bio": "Ambientato nel Sud degli Stati Uniti due anni prima della Guerra Civile, Django Unchained segue la storia di Django, uno schiavo la cui brutale storia lo porta ad incontrare il cacciatore di taglie tedesco Dr. King Schultz."
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "poster": "https://m.media-amazon.com/images/I/510L5ypQBdL._AC_UF894,1000_QL80_.jpg",
+      "year": 1972,
+      "director": "Francis Ford Coppola",
+      "bio": "La storia della famiglia mafiosa Corleone dal 1945 al 1955, concentrandosi sulla trasformazione di Michael Corleone da riluttante outsider della famiglia a spietato boss mafioso."
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "poster": "https://img.posterstore.com/zoom/wb0037-8batman-thedarkknightrises50x70.jpg",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "bio": "Batman deve confrontarsi con il suo più grande nemico psicologico: il Joker, un criminale che spinge Gotham City sull'orlo dell'anarchia e forza Batman più vicino che mai a superare il confine tra eroe e vigilante."
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "poster": "https://m.media-amazon.com/images/I/718LfFW+tIL._AC_UF894,1000_QL80_.jpg",
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "bio": "Le vite di due sicari della mafia, un pugile, la moglie di un gangster e due rapinatori si intrecciano in quattro racconti di violenza e redenzione."
+    },
+    {
+      "id": 5,
+      "title": "The Departed",
+      "poster": "https://i.ebayimg.com/images/g/AVsAAOSwOdpX1x3y/s-l1200.jpg",
+      "year": 2006,
+      "director": "Martin Scorsese",
+      "bio": "Un poliziotto sotto copertura e una talpa nella polizia tentano reciprocamente di identificarsi mentre si infiltrano in una banda criminale irlandese a Boston."
+    },
+    {
+      "id": 6,
+      "title": "The Lord of the Rings: The Return of the King",
+      "poster": "https://images.wall-art.de/format:webp/q:92/rs:fit:780//_img/out/pictures/master/product/1/104633.jpg",
+      "year": 2003,
+      "director": "Peter Jackson",
+      "bio": "Gandalf e Aragorn guidano il mondo degli uomini contro l'armata di Sauron per attirare il suo sguardo lontano da Frodo e Sam che si avvicinano al Monte Fato con l'Unico Anello."
+    },
+    {
+      "id": 7,
+      "title": "Prova a prendermi",
+      "poster": "https://www.picclickimg.com/unUAAOSw9X9imFvL/Prova-A-Prendermi-Film-2002-Poster-Locandina-45X32Cm.webp",
+      "year": 2002,
+      "director": "Steven Spielberg",
+      "bio": "La vera storia di Frank Abagnale Jr. che, prima dei 19 anni, divenne il truffatore di maggior successo nella storia degli Stati Uniti, fingendosi pilota, medico e avvocato mentre era ricercato dall'FBI."
+    },
+    {
+      "id": 8,
+      "title": "Inception",
+      "poster": "https://i.ebayimg.com/images/g/JfYAAOSwIOtbatHS/s-l1200.jpg",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "bio": "Un ladro esperto nell'arte dell'estrazione, il furto di segreti dal subconscio durante il sogno, riceve l'incarico inverso: inserire un'idea nella mente di un CEO."
+    },
+    {
+      "id": 9,
+      "title": "Fight Club",
+      "poster": "https://i.etsystatic.com/18242346/r/il/c9908e/2412674268/il_570xN.2412674268_1sgm.jpg",
+      "year": 1999,
+      "director": "David Fincher",
+      "bio": "Un impiegato insoddisfatto e un venditore di sapone danno vita a un club clandestino di combattimento che evolve in qualcosa di molto più pericoloso."
+    },
+    {
+      "id": 10,
+      "title": "The Matrix",
+      "poster": "https://c8.alamy.com/compit/2jh2n9a/pantoliano-fishburne-reeves-poster-la-matrice-1999-2jh2n9a.jpg",
+      "year": 1999,
+      "director": "The Wachowskis",
+      "bio": "Un programmatore informatico scopre che la realtà è una simulazione creata da macchine senzienti e si unisce a una ribellione per liberare l'umanità."
+    },
+    {
+      "id": 11,
+      "title": "Saint Seya: Soul of Gold",
+      "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/64011.jpg",
+      "year": 2015,
+      "director": "Takeshi Furuta",
+      "bio": "I Cavalieri d'Oro, resuscitati misteriosamente ad Asgard, devono svelare il mistero dietro il loro ritorno mentre affrontano nuove minacce divine."
+    },
+    {
+      "id": 12,
+      "title": "Inglourious Basterds",
+      "poster": "https://pad.mymovies.it/filmclub/2008/10/105/locandina.jpg",
+      "year": 2009,
+      "director": "Quentin Tarantino",
+      "bio": "Nella Francia occupata dai nazisti durante la Seconda Guerra Mondiale, un gruppo di soldati ebrei-americani porta avanti una missione di vendetta contro i nazisti, coincidendo con i piani di vendetta di una proprietaria di cinema."
+    },
+    {
+      "id": 13,
+      "title": "Bohemian Rhapsody",
+      "poster": "https://m.media-amazon.com/images/I/81Lt5CLlUOL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2018,
+      "director": "Bryan Singer",
+      "bio": "La storia di Freddie Mercury e dei Queen, dalla formazione della band nel 1970 fino alla loro leggendaria performance al Live Aid nel 1985."
+    },
+    {
+      "id": 14,
+      "title": "Le Iene",
+      "poster": "https://m.media-amazon.com/images/I/41AjRzhV4vL._AC_UF1000,1000_QL80_.jpg",
+      "year": 1992,
+      "director": "Quentin Tarantino",
+      "bio": "Dopo una rapina di diamanti finita male, i criminali sopravvissuti iniziano a sospettare che uno di loro sia un informatore della polizia."
+    },
+    {
+      "id": 15,
+      "title": "Saving Private Ryan",
+      "poster": "https://pad.mymovies.it/filmclub/2006/01/051/locandinapg1.jpg",
+      "year": 1998,
+      "director": "Steven Spielberg",
+      "bio": "In seguito allo sbarco in Normandia, un gruppo di soldati americani viene inviato dietro le linee nemiche per recuperare un paracadutista i cui fratelli sono stati tutti uccisi in azione."
+    },
+    {
+      "id": 16,
+      "title": "Iron Man 3",
+      "poster": "https://pad.mymovies.it/filmclub/2012/06/004/locandina.jpg",
+      "year": 2013,
+      "director": "Shane Black",
+      "bio": "Quando il mondo di Tony Stark viene distrutto dal misterioso terrorista Mandarin, inizia un viaggio di ricostruzione e ritorsione."
+    },
+    {
+      "id": 17,
+      "title": "Gladiator",
+      "poster": "https://i.ebayimg.com/images/g/NqgAAOSwqxZbbB9i/s-l1200.jpg",
+      "year": 2000,
+      "director": "Ridley Scott",
+      "bio": "Un generale romano viene tradito e la sua famiglia viene assassinata. Ridotto in schiavitù come gladiatore, cerca vendetta contro l'imperatore corrotto che ha assassinato la sua famiglia."
+    },
+    {
+      "id": 18,
+      "title": "The Green Mile",
+      "poster": "https://media.posterlounge.com/img/products/710000/707683/707683_poster.jpg",
+      "year": 1999,
+      "director": "Frank Darabont",
+      "bio": "La vita dei guardia carcerari nel braccio della morte viene cambiata per sempre quando scoprono che un nuovo prigioniero ha un dono misterioso."
+    },
+    {
+      "id": 19,
+      "title": "Braveheart",
+      "poster": "https://i.etsystatic.com/18242346/r/il/fe72a9/2412683470/il_570xN.2412683470_oouu.jpg",
+      "year": 1995,
+      "director": "Mel Gibson",
+      "bio": "Quando la sua sposa segreta viene giustiziata per aver aggredito un soldato inglese che aveva tentato di violentarla, William Wallace inizia una rivolta contro Re Edoardo I d'Inghilterra."
+    },
+    {
+      "id": 20,
+      "title": "Jurassic Park",
+      "poster": "https://i.ebayimg.com/00/s/MTYwMFgxMDk3/z/fl4AAOSwakxdOOVA/$_57.JPG?set_id=8800005007",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "bio": "Durante un'anteprima di un parco a tema di dinosauri creati geneticamente, un guasto al sistema di sicurezza causa il caos quando i dinosauri fuggono e iniziano a terrorizzare i visitatori."
+    }
+  ],
+  "favorites": [
+    {
+      "userId": 2,
+      "movie": {
+        "id": 11,
+        "title": "Saint Seya: Soul of Gold",
+        "poster": "https://mr.comingsoon.it/imgdb/locandine/235x336/64011.jpg"
+      },
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "movie": {
+        "id": 2,
+        "title": "The Godfather",
+        "poster": "https://m.media-amazon.com/images/I/510L5ypQBdL._AC_UF894,1000_QL80_.jpg",
+        "year": 1972,
+        "director": "Francis Ford Coppola",
+        "bio": "La storia della famiglia mafiosa Corleone dal 1945 al 1955, concentrandosi sulla trasformazione di Michael Corleone da riluttante outsider della famiglia a spietato boss mafioso."
+      },
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "movie": {
+        "id": 1,
+        "title": "Django",
+        "poster": "https://m.media-amazon.com/images/I/811V32gosPL._UX250_.jpg",
+        "year": 2012,
+        "director": "Quentin Tarantino",
+        "bio": "Ambientato nel Sud degli Stati Uniti due anni prima della Guerra Civile, Django Unchained segue la storia di Django, uno schiavo la cui brutale storia lo porta ad incontrare il cacciatore di taglie tedesco Dr. King Schultz."
+      },
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "movie": {
+        "id": 5,
+        "title": "The Departed",
+        "poster": "https://i.ebayimg.com/images/g/AVsAAOSwOdpX1x3y/s-l1200.jpg",
+        "year": 2006,
+        "director": "Martin Scorsese",
+        "bio": "Un poliziotto sotto copertura e una talpa nella polizia tentano reciprocamente di identificarsi mentre si infiltrano in una banda criminale irlandese a Boston."
+      },
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "movie": {
+        "id": 6,
+        "title": "The Lord of the Rings: The Return of the King",
+        "poster": "https://images.wall-art.de/format:webp/q:92/rs:fit:780//_img/out/pictures/master/product/1/104633.jpg",
+        "year": 2003,
+        "director": "Peter Jackson",
+        "bio": "Gandalf e Aragorn guidano il mondo degli uomini contro l'armata di Sauron per attirare il suo sguardo lontano da Frodo e Sam che si avvicinano al Monte Fato con l'Unico Anello."
+      },
+      "id": 7
+    }
+  ]
+}
